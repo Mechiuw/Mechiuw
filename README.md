@@ -1,4 +1,4 @@
--  Hi, I’m @Mechiuw
+-  Hi, I’m Matthew Diamonda pk.
 -  I’m interested in Software Development
 -  I’m currently learning Java & SQL
 -  I’m looking to collaborate on Beginner Projects
