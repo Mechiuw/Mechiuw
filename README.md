@@ -1,7 +1,6 @@
 -  Hi, I’m Matthew Diamonda pk.
--  I’m a Software Engineer
--  C# is love
--  I’m currently working using .NET and Spring
+-  I’m a Software Engineer mainly on FE Development and Mobile
+-  currently working on fullstack projects using React, Spring, React Native
 -  I’m looking to collaborate on Projects
 - 📫 Email me through matthewdpk@gmail.com
 
