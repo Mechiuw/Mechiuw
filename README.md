@@ -1,10 +1,11 @@
--  Hi, I’m Matthew Diamonda
--  I’m a FullStack Developer mainly on FE Development and Mobile
--  currently working on fullstack projects using React, Spring, React Native.
--  Language Stack : ( Vanilla Java, Java Stream, Java Spring, Vanilla JavaScript, React, Web Styling(CSS, GSAP), React Native, Vanilla C#, .Net )
-- 📫 Email me through matthewdpk@gmail.com
+Hi, I’m Matthew Diamonda, a versatile FullStack Developer with a focus on Front-End Development and Mobile Applications. I am currently engaged in full-stack projects utilizing React, Spring, and React Native.
 
-I hope We can interact and build strong relations through programming!
-God bless.
+My expertise spans across various programming languages and technologies, including:
 
-
+- Java (Vanilla, Streams, Spring, Hibernate)
+- JavaScript (Vanilla, React, GSAP for Web Styling)
+- C# (Vanilla, .NET)
+- React Native for mobile development
+- Database Management (PostgreSQL, MySQL)
+- System Analyst for comprehensive project understanding and improvement
+📫 Feel free to reach out to me at matthewdpk@gmail.com. I'm excited to connect and collaborate on innovative programming projects. Let's build strong relationships and create amazing software together! God bless.
