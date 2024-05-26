@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Diamonda</h1>
-<h3 align="left">A Professional Front-End and Mobile Developer from Indonesia with Proficiency in modern front-end frameworks such as Angular, React, and Vue.js, as well as mobile development with React Native and UI-UX Design using Figma.</h3>
+<h3 align="center">A Professional Front-End and Mobile Developer from Indonesia with Proficiency in modern front-end frameworks such as Angular, React, and Vue.js, as well as mobile development with React Native and UI-UX Design using Figma.</h3>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5nZWR3ZWZ4Z2JtMDlyems5cG95ZnluejZzeTAza2RyZGEybmFkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" align="right" alt="animated" width="200">
 
 - 🔭 I’m currently working on [Mini-project Restaurant Website](https://github.com/Mechiuw/mini-project-react-restaurant-website)
