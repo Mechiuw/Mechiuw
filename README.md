@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew Diamonda</h1>
 <h3 align="center">A Professional Front End and Mobile Developer from Indonesia</h3>
-<iframe align="right" src="https://giphy.com/embed/llarwdtFqG63IlqUR1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">via GIPHY</a></p>
+<img align="right" src="https://giphy.com/embed/llarwdtFqG63IlqUR1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 🔭 I’m currently working on [Mini-project Restaurant Website](https://github.com/Mechiuw/mini-project-react-restaurant-website)
 
