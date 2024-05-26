@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthew Diamonda</h1>
-<h3 align="center">Sure, here's a refined and succinct version: --- A dedicated Front-End and Mobile Developer from Indonesia with expertise in building responsive web applications and mobile solutions. Proficient in modern front-end frameworks such as Angular, React, and Vue.js, as well as mobile development with React Native and Flutter. Committed to delivering high-quality, user-friendly applications while staying current with industry trends and best practices.</h3>
+<br/>
+<h4 align="center">A dedicated Front-End and Mobile Developer from Indonesia with expertise in building responsive web applications and mobile solutions. Proficient in modern front-end frameworks such as Angular, React, and Vue.js, as well as mobile development with React Native and Flutter. Committed to delivering high-quality, user-friendly applications while staying current with industry trends and best practices.</h3>
 
 - 🔭 I’m currently working on [Mini-project Restaurant Website](https://github.com/Mechiuw/mini-project-react-restaurant-website)
 
