@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 💬 Ask me about **react,gsap,angular,vue**
+- 💬 Ask me about **spring,react,gsap,angular,vue**
 
 - 📫 How to reach me **matthewdpk@gmail.com**
 
