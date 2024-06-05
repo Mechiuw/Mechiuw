@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Mini-project Restaurant Website](https://github.com/Mechiuw/mini-project-react-restaurant-website)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 You can hire me as **FE** or **BE** or **Mobile Developer** 
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
