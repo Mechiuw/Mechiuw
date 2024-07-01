@@ -6,13 +6,10 @@
 
 - 🌱 You can hire me as **FE** or **BE** or **Mobile Developer** 
 
-- 👯 I’m looking to collaborate on **Fullstack Projects**
-
-- 💬 Ask me about **spring,react,gsap,angular,vue**
-
 - 📫 How to reach me **matthewdpk@gmail.com**
 
-- ⚡ Fun fact **I am young enough and old enough**
+- ⚡ Mobile are in development for [Springboot Table Track App](https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App) amd [Springboot ATM Machine API](https://github.com/Mechiuw/SpringBoot_ATM-Machine)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
