@@ -45,4 +45,4 @@
 | React GetSpot Web App | [Link](https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE)  |
 | Vue TableTrack App | [Link](https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office)  |
 | Nuxt Todo App | [Link](https://github.com/Mechiuw/Nuxt.TodoApp)  |
-| ------------  | ------------  |
+| ------------ | ------------ |
