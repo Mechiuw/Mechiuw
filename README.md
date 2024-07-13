@@ -28,3 +28,20 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.golang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <a href="https://www.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> <a href="https://www.kotlin.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></p>
 
 <p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechiuw&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="mechiuw" /> <img align="end" src="https://github-readme-streak-stats.herokuapp.com/?user=mechiuw&" alt="mechiuw" /></p>
+
+<h2>Projects</h2>
+| Project Name  | Link |
+| ------------- | ------------- |
+| Springboot Pet Care | [Link](https://github.com/Mechiuw/Springboot.PetCare-Business-Service)  |
+| Springboot Union Bank System | [Link](https://github.com/Mechiuw/SpringBoot_Union-Bank-ATM-System)  |
+| Springboot TableTrack | [Link](https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App)  |
+| Go Pet Care | [Link](https://github.com/Mechiuw/Go.Pet-Care)  |
+| Go E-Bag | [Link](https://github.com/Mechiuw/Go.E-Bag-System)  |
+| Go Temperature | [Link](https://github.com/Mechiuw/Go.Temperature-Converter)  |
+| Go Form-Console | [Link](https://github.com/Mechiuw/Go.Form-Console-System)  |
+| .NET Library App | [Link](https://github.com/Mechiuw/ASP.NET_Core_8-Enigpus-App)  |
+| React Resto Web | [Link](https://github.com/Mechiuw/mini-project-react-restaurant-website)  |
+| React GetSpot Web App | [Link](https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE)  |
+| Vue TableTrack App | [Link](https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office)  |
+| Nuxt Todo App | [Link](https://github.com/Mechiuw/Nuxt.TodoApp)  |
+| ------------  | ------------  |
