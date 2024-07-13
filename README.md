@@ -30,6 +30,7 @@
 <p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=mechiuw&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="mechiuw" /> <img align="end" src="https://github-readme-streak-stats.herokuapp.com/?user=mechiuw&" alt="mechiuw" /></p>
 
 <h2>Projects</h2>
+<h4>Some of these are still under-development</h4>
 
 | Project Name  | Link |
 | ------------- | ------------- |
@@ -45,4 +46,4 @@
 | React GetSpot Web App | [Link](https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE)  |
 | Vue TableTrack App | [Link](https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office)  |
 | Nuxt Todo App | [Link](https://github.com/Mechiuw/Nuxt.TodoApp)  |
-| ------------ | ------------ |
+
