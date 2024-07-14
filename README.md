@@ -42,7 +42,7 @@
 | Go Temperature | [![Go Temperature](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Temperature-Converter) |
 | Go Form-Console | [![Go Form](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Form-Console-System) |
 | .NET Library App | [![DotNet Library App](https://img.shields.io/badge/Link-GitHub-purple)](https://github.com/Mechiuw/ASP.NET_Core_8-Enigpus-App) |
-| React Resto Web | [![React Restaurant Web](https://img.shields.io/badge/Link-GitHub-dark-darkblue)](https://github.com/Mechiuw/mini-project-react-restaurant-website) |
+| React Resto Web | [![React Restaurant Web](https://img.shields.io/badge/Link-GitHub-darkblue)](https://github.com/Mechiuw/mini-project-react-restaurant-website) |
 | React GetSpot Web App | [![React Get Spot App](https://img.shields.io/badge/Link-GitHub-darkblue)](https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE) |
 | Vue TableTrack App | [![Vue TableTrack](https://img.shields.io/badge/Link-GitHub-lightgreen)](https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office) |
 | Nuxt Todo App | [![Nuxt Todo](https://img.shields.io/badge/Link-GitHub-lightgreen)](https://github.com/Mechiuw/Nuxt.TodoApp) |
