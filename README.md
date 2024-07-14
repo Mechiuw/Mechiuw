@@ -34,17 +34,17 @@
 
 | Project Name  | Link |
 | ------------- | ------------- |
-| Springboot Pet Care | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Springboot.PetCare-Business-Service) |
-| Springboot Union Bank System | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/SpringBoot_Union-Bank-ATM-System) |
-| Springboot TableTrack | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App) |
-| Go Pet Care | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Pet-Care) |
-| Go E-Bag | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.E-Bag-System) |
-| Go Temperature | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Temperature-Converter) |
-| Go Form-Console | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Form-Console-System) |
-| .NET Library App | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/ASP.NET_Core_8-Enigpus-App) |
-| React Resto Web | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/mini-project-react-restaurant-website) |
-| React GetSpot Web App | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE) |
-| Vue TableTrack App | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office) |
-| Nuxt Todo App | [![GitHub](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Nuxt.TodoApp) |
+| Springboot Pet Care | [![Spring Pet Care](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Mechiuw/Springboot.PetCare-Business-Service) |
+| Springboot Union Bank System | [![Spring Union Bank](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Mechiuw/SpringBoot_Union-Bank-ATM-System) |
+| Springboot TableTrack | [![Spring TableTrack](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App) |
+| Go Pet Care | [![Go Pet Care](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Pet-Care) |
+| Go E-Bag | [![Go E-Bag](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.E-Bag-System) |
+| Go Temperature | [![Go Temperature](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Temperature-Converter) |
+| Go Form-Console | [![Go Form](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Form-Console-System) |
+| .NET Library App | [![DotNet Library App](https://img.shields.io/badge/Link-GitHub-purple)](https://github.com/Mechiuw/ASP.NET_Core_8-Enigpus-App) |
+| React Resto Web | [![React Restaurant Web](https://img.shields.io/badge/Link-GitHub-dark-darkblue)](https://github.com/Mechiuw/mini-project-react-restaurant-website) |
+| React GetSpot Web App | [![React Get Spot App](https://img.shields.io/badge/Link-GitHub-darkblue)](https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE) |
+| Vue TableTrack App | [![Vue TableTrack](https://img.shields.io/badge/Link-GitHub-lightgreen)](https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office) |
+| Nuxt Todo App | [![Nuxt Todo](https://img.shields.io/badge/Link-GitHub-lightgreen)](https://github.com/Mechiuw/Nuxt.TodoApp) |
 
 
