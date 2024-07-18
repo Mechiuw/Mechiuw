@@ -1,15 +1,5 @@
 <h1 align="center">I'm Matthew Diamonda</h1>
-<h3 align="center">A Fullstack and Mobile Developer from Indonesia with Proficiency in modern front-end frameworks such as Angular, React,Nuxt, and Vue.js, for Backend i use Golang , SpringBoot,.NET then for the databases i use postgresql, mysql, as well as mobile development with React Native, Kotlin and UI-UX Design using Figma.</h3>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pmZ2lwNXEyeWl3b3Awdm1xOWY5dnZrYnM1M25jOWJjZjJ1MGlpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" align="right" alt="animated" width="200">
-
-- 🔭 I’m currently working on [Go Pet Care API](https://github.com/Mechiuw/Go.Pet-Care), [Springboot Table Track App](https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App) and [Springboot ATM Machine API](https://github.com/Mechiuw/SpringBoot_ATM-Machine)
-
-- 🌱 You can hire me as **FE** or **BE** or **Mobile Developer** 
-
-- 📫 How to reach me **matthewdpk@gmail.com**
-
-- ⚡ Mobile are in development for [Springboot Table Track App](https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App) amd [Springboot ATM Machine API](https://github.com/Mechiuw/SpringBoot_ATM-Machine)
-
+<h3 align="center">A Fullstack Developer, you can call me Matt. i do code regulary hehe</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
