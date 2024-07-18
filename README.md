@@ -1,5 +1,5 @@
 <h1 align="center">I'm Matthew Diamonda</h1>
-<h3 align="center">A Fullstack Developer, you can call me Matt. i do code regulary hehe. <br> sometimes i interested with AR and IoT things but then i realised im broke lol, then i went for software developer. now im interested with DevOps, well y'know im interested with everything. maybe i should go to college or sum, or like hackatons</h3>
+<h3 align="center">A Fullstack Developer, you can call me Matt. i do code regulary hehe. sometimes i interested with AR and IoT things but then i realised im broke lol, then i went for software developer. now im interested with DevOps, well y'know im interested with everything. maybe i should go to college or sum, or like hackatons</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
