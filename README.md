@@ -18,10 +18,10 @@
       <br>Angular
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
       </a>
-      <br>Bootstrap
+      <br>SQLite
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -112,10 +112,10 @@
       <br>Spring
     </td>
     <td align="center" width="96">
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
       </a>
-      <br>SQLite
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
