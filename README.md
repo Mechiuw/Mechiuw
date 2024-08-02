@@ -1,6 +1,8 @@
 <h1 align="center">I'm Matthew Diamonda</h1>
 <h3 align="center">A Fullstack Developer, you can call me Matt. i do code regulary hehe. sometimes i interested with AR and IoT things but then i realised im broke lol, then i went for software developer. now im interested with DevOps, well y'know im interested with everything. maybe i should go to college or sum, or like hackatons</h3>
 
+<h4>recently im working with few of my college friends from binus university, we're developing a warehouse management web-app under a team called Ware-IoT. contact us for more information or join us as part of the team! : matthewdpk@gmail.com </h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matthew-diamonda-6a63a6271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew diamonda" height="30" width="40" /></a>
