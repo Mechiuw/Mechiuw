@@ -169,6 +169,12 @@
       </a>
       <br>Kafka
     </td>
+    <td align="center" width="96">
+      <a href="https://python.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+      </a>
+      <br>Python
+    </td>
   </tr>
 </table>
 
