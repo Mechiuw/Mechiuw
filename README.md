@@ -171,7 +171,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://katalon.org/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/vector-logo/483547/katalon-icon" alt="Katalon Icon" width="40" height="40"/>
+        <img src="https://seeklogo.com/images/K/katalon-icon-logo-31C98AC16C-seeklogo.com.png" alt="Katalon Icon" width="40" height="40"/>
       </a>
       <br>Kafka
     </td>
