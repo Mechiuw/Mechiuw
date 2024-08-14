@@ -153,7 +153,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
+        <img src="https://jmeter.apache.org/images/apple-touch-icon.png" alt="jmeter" width="40" height="40"/>
       </a>
       <br>JMeter
     </td>
