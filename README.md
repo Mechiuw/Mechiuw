@@ -152,10 +152,10 @@
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>
+      <a href="https://apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
       </a>
-      <br>Nuxt.js
+      <br>JMeter
     </td>
     <td align="center" width="96">
       <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
