@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/85dfc369-ea10-4e97-afa8-341b3daf5f95)![image](https://github.com/user-attachments/assets/0667b2c7-1e9f-4eb6-bc06-9e6c5687014e)![image](https://github.com/user-attachments/assets/01ff2581-ac85-4b0f-8d18-b301911055f0)<h1 align="center">I'm Matthew Diamonda</h1>
+<h1 align="center">I'm Matthew Diamonda</h1>
 <h3 align="center">A Fullstack Developer, you can call me Matt. i do code regulary hehe. sometimes i interested with AR and IoT things but then i realised im broke lol, then i went for software developer. now im interested with DevOps, well y'know im interested with everything. maybe i should go to college or sum, or like hackatons</h3>
 
 <h4>recently im working with few of my college friends from binus university, we're developing a warehouse management web-app under a team called Ware-IoT. contact us for more information or join us as part of the team! : matthewdpk@gmail.com </h4>
@@ -177,13 +177,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="Katalon Icon" width="30" height="40"/>
+        <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="Katalon Icon" width="40" height="40"/>
       </a>
       <br>GraphQL API
     </td>
     <td align="center" width="96">
       <a href="https://docs.github.com/en/rest?apiVersion=2022-11-28" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/?size=100&id=lKEap0UdnIQ0&format=png&color=000000" alt="Katalon Icon" width="30" height="40"/>
+        <img src="https://img.icons8.com/?size=100&id=lKEap0UdnIQ0&format=png&color=000000" alt="Katalon Icon" width="40" height="40"/>
       </a>
       <br>REST API
     </td>
