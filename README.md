@@ -175,6 +175,24 @@
       </a>
       <br>Katalon
     </td>
+    <td align="center" width="96">
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+        <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="Katalon Icon" width="25" height="40"/>
+      </a>
+      <br>GraphQL API
+    </td>
+    <td align="center" width="96">
+      <a href="https://docs.github.com/en/rest?apiVersion=2022-11-28" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=lKEap0UdnIQ0&format=png&color=000000" alt="Katalon Icon" width="25" height="40"/>
+      </a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a href="https://swagger.io" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=rdKV2dee9wxd&format=png&color=000000" alt="Katalon Icon" width="25" height="40"/>
+      </a>
+      <br>Swagger DOCS
+    </td>
   </tr>
 </table>
 
