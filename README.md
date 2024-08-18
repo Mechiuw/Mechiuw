@@ -179,13 +179,13 @@
       <a href="https://graphql.org/" target="_blank" rel="noreferrer">
         <img src="https://seeklogo.com/images/G/graphql-logo-97CBBB6D51-seeklogo.com.png" alt="Katalon Icon" width="35" height="38"/>
       </a>
-      <br>GraphQL API
+      <br>GraphQL
     </td>
     <td align="center" width="96">
       <a href="https://docs.github.com/en/rest?apiVersion=2022-11-28" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=100&id=lKEap0UdnIQ0&format=png&color=000000" alt="Katalon Icon" width="40" height="40"/>
       </a>
-      <br>REST API
+      <br>REST
     </td>
   </tr>
 </table>
