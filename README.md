@@ -191,21 +191,66 @@
 </table>
 
 <h2>Projects</h2>
-<h4>Some of these are still under-development</h4>
+<h4>Some of these are still under development</h4>
 
-| Project Name  | Link |
-| ------------- | ------------- |
-| Springboot Pet Care | [![Spring Pet Care](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Mechiuw/Springboot.PetCare-Business-Service) |
-| Springboot Union Bank System | [![Spring Union Bank](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Mechiuw/SpringBoot_Union-Bank-ATM-System) |
-| Springboot TableTrack | [![Spring TableTrack](https://img.shields.io/badge/Link-GitHub-green)](https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App) |
-| Go Pet Care | [![Go Pet Care](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Pet-Care) |
-| Go E-Bag | [![Go E-Bag](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.E-Bag-System) |
-| Go Temperature | [![Go Temperature](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Temperature-Converter) |
-| Go Form-Console | [![Go Form](https://img.shields.io/badge/Link-GitHub-blue)](https://github.com/Mechiuw/Go.Form-Console-System) |
-| .NET Library App | [![DotNet Library App](https://img.shields.io/badge/Link-GitHub-purple)](https://github.com/Mechiuw/ASP.NET_Core_8-Enigpus-App) |
-| React Resto Web | [![React Restaurant Web](https://img.shields.io/badge/Link-GitHub-darkblue)](https://github.com/Mechiuw/mini-project-react-restaurant-website) |
-| React GetSpot Web App | [![React Get Spot App](https://img.shields.io/badge/Link-GitHub-darkblue)](https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE) |
-| Vue TableTrack App | [![Vue TableTrack](https://img.shields.io/badge/Link-GitHub-lightgreen)](https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office) |
-| Nuxt Todo App | [![Nuxt Todo](https://img.shields.io/badge/Link-GitHub-lightgreen)](https://github.com/Mechiuw/Nuxt.TodoApp) |
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Springboot Pet Care</td>
+      <td><a href="https://github.com/Mechiuw/Springboot.PetCare-Business-Service"><img src="https://img.shields.io/badge/Link-GitHub-green" alt="Spring Pet Care"></a></td>
+    </tr>
+    <tr>
+      <td>Springboot Union Bank System</td>
+      <td><a href="https://github.com/Mechiuw/SpringBoot_Union-Bank-ATM-System"><img src="https://img.shields.io/badge/Link-GitHub-green" alt="Spring Union Bank"></a></td>
+    </tr>
+    <tr>
+      <td>Springboot TableTrack</td>
+      <td><a href="https://github.com/Mechiuw/SpringBoot_TableTrack-Management-App"><img src="https://img.shields.io/badge/Link-GitHub-green" alt="Spring TableTrack"></a></td>
+    </tr>
+    <tr>
+      <td>Go Pet Care</td>
+      <td><a href="https://github.com/Mechiuw/Go.Pet-Care"><img src="https://img.shields.io/badge/Link-GitHub-blue" alt="Go Pet Care"></a></td>
+    </tr>
+    <tr>
+      <td>Go E-Bag</td>
+      <td><a href="https://github.com/Mechiuw/Go.E-Bag-System"><img src="https://img.shields.io/badge/Link-GitHub-blue" alt="Go E-Bag"></a></td>
+    </tr>
+    <tr>
+      <td>Go Temperature</td>
+      <td><a href="https://github.com/Mechiuw/Go.Temperature-Converter"><img src="https://img.shields.io/badge/Link-GitHub-blue" alt="Go Temperature"></a></td>
+    </tr>
+    <tr>
+      <td>Go Form-Console</td>
+      <td><a href="https://github.com/Mechiuw/Go.Form-Console-System"><img src="https://img.shields.io/badge/Link-GitHub-blue" alt="Go Form"></a></td>
+    </tr>
+    <tr>
+      <td>.NET Library App</td>
+      <td><a href="https://github.com/Mechiuw/ASP.NET_Core_8-Enigpus-App"><img src="https://img.shields.io/badge/Link-GitHub-purple" alt=".NET Library App"></a></td>
+    </tr>
+    <tr>
+      <td>React Resto Web</td>
+      <td><a href="https://github.com/Mechiuw/mini-project-react-restaurant-website"><img src="https://img.shields.io/badge/Link-GitHub-darkblue" alt="React Restaurant Web"></a></td>
+    </tr>
+    <tr>
+      <td>React GetSpot Web App</td>
+      <td><a href="https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE"><img src="https://img.shields.io/badge/Link-GitHub-darkblue" alt="React Get Spot App"></a></td>
+    </tr>
+    <tr>
+      <td>Vue TableTrack App</td>
+      <td><a href="https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office"><img src="https://img.shields.io/badge/Link-GitHub-lightgreen" alt="Vue TableTrack"></a></td>
+    </tr>
+    <tr>
+      <td>Nuxt Todo App</td>
+      <td><a href="https://github.com/Mechiuw/Nuxt.TodoApp"><img src="https://img.shields.io/badge/Link-GitHub-lightgreen" alt="Nuxt Todo"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
