@@ -1,5 +1,5 @@
 <h1 align="center">I'm Matthew Diamonda</h1>
-<h3 align="center">A Fullstack Developer, you can call me Matt. i do code regulary hehe. sometimes i interested with AR and IoT things but then i realised im broke lol, then i went for software developer. now im interested with DevOps, well y'know im interested with everything. maybe i should go to college or sum, or like hackatons</h3>
+<h3 align="center">A Fullstack Developer, you can call me Matt, im interested with building anything almost everything, so you can just DM me what project you're on incase you need any help with any related work in software development. maybe i should go to college and spend more time with friends building cool stuffs, or like hackatons haha</h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -92,12 +92,6 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-      </a>
-      <br>React Native
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -129,12 +123,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-      </a>
-      <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -229,24 +217,12 @@
       <td><a href="https://github.com/Mechiuw/Go.Form-Console-System"><img src="https://img.shields.io/badge/Link-GitHub-blue" alt="Go Form"></a></td>
     </tr>
     <tr>
-      <td>.NET Library App</td>
-      <td><a href="https://github.com/Mechiuw/ASP.NET_Core_8-Enigpus-App"><img src="https://img.shields.io/badge/Link-GitHub-purple" alt=".NET Library App"></a></td>
-    </tr>
-    <tr>
       <td>React Resto Web</td>
       <td><a href="https://github.com/Mechiuw/mini-project-react-restaurant-website"><img src="https://img.shields.io/badge/Link-GitHub-darkblue" alt="React Restaurant Web"></a></td>
     </tr>
     <tr>
       <td>React GetSpot Web App</td>
       <td><a href="https://github.com/Mechiuw/ReactJs_GetSpot-Placement-System-FE"><img src="https://img.shields.io/badge/Link-GitHub-darkblue" alt="React Get Spot App"></a></td>
-    </tr>
-    <tr>
-      <td>Vue TableTrack App</td>
-      <td><a href="https://github.com/Mechiuw/Vue.TableTrack-Website-Back_Office"><img src="https://img.shields.io/badge/Link-GitHub-lightgreen" alt="Vue TableTrack"></a></td>
-    </tr>
-    <tr>
-      <td>Nuxt Todo App</td>
-      <td><a href="https://github.com/Mechiuw/Nuxt.TodoApp"><img src="https://img.shields.io/badge/Link-GitHub-lightgreen" alt="Nuxt Todo"></a></td>
     </tr>
   </tbody>
 </table>
