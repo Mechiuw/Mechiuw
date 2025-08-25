@@ -1,5 +1,5 @@
 <h1 align="center">I'm Matthew Diamonda</h1>
-<h3 align="center">A Fullstack Developer, you can call me Matt, im interested with building anything almost everything. currently working on global system architecture and analyst, and maybe i should go to college and spend more time with friends building cool stuffs, or like hackatons haha</h3>
+<h3 align="center">A Fullstack Developer and Software Architect, you can call me Matt, im interested with building anything almost everything. feel free to check on codes i made</h3>
 
 
 <h3 align="left">Connect with me:</h3>
